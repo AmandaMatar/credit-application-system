@@ -2,7 +2,7 @@
 
 ## Objetivos:
 Este projeto tem como objetivo atuar com o Spring Boot usando a linguagem de Kotlin.
-Proojeto desenvolvido no módulo "Criando uma Api Rest com Kotlin e Persistência de Dados" - Bootcamp TQI Kotlin - Backend Developer pela DIO.
+Projeto desenvolvido no módulo "Criando uma Api Rest com Kotlin e Persistência de Dados" - Bootcamp TQI Kotlin - Backend Developer pela DIO.
 
 ### Problemas:
 Durante o desenvolvimento do projeto houveram alguns problemas que ainda não consegui resolver. Por exemplo, conexão com o banco
